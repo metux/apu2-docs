@@ -1,0 +1,14 @@
+
+Register:	Pin:			APUv2 Function:
+
+    0x40	GPIO_49			SPD_STRAP0
+    0x41	GPIO_50			SPD_STRAP1
+    0x42	GPIO_51			PE3_RST
+    0x43	GPIO_59			PE4_RST
+    0x44	GPIO_57			LED1
+    0x45	GPIO_58			LED2
+    0x46	GPIO_59			LED3
+    0x47	GPIO_64			PE3_WDIS
+    0x48	GPIO_68			PE4_WDIS
+    0x5B	GPIO_66 / SPK		SPKR
+    0x4D				PROCHOT
